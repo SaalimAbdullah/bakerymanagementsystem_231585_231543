@@ -87,7 +87,7 @@ void ordersMenu(vector<order>& orders, const vector<customer>& custs, const vect
 		cout << "----------------------------------------\n";
 
 
-		cout << " 1. Add Order\n 2. View Orders\n 3. Search Order\n 4. Update Order Price\n 5. Delete Order \n 6. Back\n";
+		cout << " 1. Add Order\n 2. View Orders\n 3. Search Order\n 4. Back\n";
 		int option = 0;
 		cin >> option;
 
